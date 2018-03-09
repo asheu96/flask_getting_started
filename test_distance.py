@@ -1,3 +1,5 @@
+import pytest
+
 def test_distance():
 
     """Simple test that checks if the input distance calculations are done correctly"""
